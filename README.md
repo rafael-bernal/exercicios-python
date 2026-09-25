@@ -32,7 +32,7 @@ Os exercícios estão organizados em arquivos individuais dentro do repositório
 
 Atualmente, o repositório conta com:
 
-**87 exercícios em Python 🐍**
+**97 exercícios em Python 🐍**
 
 Novos exercícios serão adicionados conforme avanço nos estudos.
 
