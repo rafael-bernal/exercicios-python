@@ -2,7 +2,7 @@
 
 Repositório criado para registrar minha jornada de estudos em **Python**, acompanhando o curso de Python do **Curso em Vídeo**, do professor Gustavo Guanabara.
 
-Aqui estão reunidos **82 exercícios práticos** desenvolvidos durante os estudos, desde conceitos básicos até estruturas mais avançadas da linguagem.
+Aqui estão reunidos **97 exercícios práticos** desenvolvidos durante os estudos, desde conceitos básicos até estruturas mais avançadas da linguagem.
 
 ## 📚 Conteúdos estudados
 
